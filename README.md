@@ -85,7 +85,7 @@ ocr-searchable-pdf/
 ├── .gitignore
 ├── README.md
 └── scanned_pdfs/
-└── sample.pdf
+    └── sample.pdf
 
 
 ---

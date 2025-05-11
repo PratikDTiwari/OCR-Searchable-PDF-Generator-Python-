@@ -1,1 +1,3 @@
-requirements.txt
+pytesseract
+pymupdf
+Pillow

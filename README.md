@@ -73,7 +73,7 @@ Output:
 **text**
 ✅ Searchable PDF saved to: C:\Users\YourName\Documents\searchable_scanned_notes.pdf
 📂 Folder Structure
-text
+
 ocr-searchable-pdf/
 ├── ocr.py
 ├── requirements.txt

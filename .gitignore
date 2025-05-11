@@ -1,0 +1,19 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Output PDFs
+*.pdf
+
+# IDE folders
+.vscode/
+.idea/

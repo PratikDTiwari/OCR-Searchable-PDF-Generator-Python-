@@ -87,7 +87,7 @@ ocr-searchable-pdf/
 ├── README.md
 └── scanned_pdfs/
     └── sample.pdf
-
+```
 
 ---
 

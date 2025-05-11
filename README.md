@@ -77,15 +77,17 @@ Enter the name of the PDF file (e.g., file.pdf): scanned_notes.pdf
 
 ---
 
-## Folder Structure
+## 📂 Folder Structure
 
+```plaintext
 ocr-searchable-pdf/
 ├── ocr.py
 ├── requirements.txt
 ├── .gitignore
 ├── README.md
 └── scanned_pdfs/
-└── sample.pdf
+    └── sample.pdf
+
 
 ---
 
